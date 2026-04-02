@@ -1,0 +1,49 @@
+﻿barrio,dist_subte_m,linea_subte_cercana,estacion_cercana,cant_estaciones_800m,subte_5min,subte_10min
+Villa Santa Rita,2022.0,A,San Pedrito,0,False,False
+Villa del Parque,2960.7,B,De Los Incas - Pque. Chas,0,False,False
+Villa General Mitre,2161.8,A,Carabobo,0,False,False
+Villa Devoto,4027.7,B,Juan Manuel De Rosas - Villa Urquiza,0,False,False
+Villa Pueyrredón,1790.7,B,Juan Manuel De Rosas - Villa Urquiza,0,False,False
+Agronomía,1817.2,B,Echeverría - Mártires Palotinos,0,False,False
+La Paternal,1493.2,B,Tronador - Villa Ortúzar,0,False,False
+Parque Chas,652.7,B,De Los Incas - Pque. Chas,1,False,True
+Chacarita,150.7,B,Federico Lacroze,2,True,True
+Villa Ortúzar,369.2,B,Tronador - Villa Ortúzar,2,True,True
+Villa Crespo,271.7,B,Malabia - Osvaldo Pugliese,1,True,True
+Caballito,454.2,A,Primera Junta,2,False,True
+Monte Castro,3618.2,A,San Pedrito,0,False,False
+Floresta,1323.0,A,San Pedrito,0,False,False
+Flores,371.8,E,Varela,3,True,True
+Villa Real,5315.9,A,San Pedrito,0,False,False
+Versalles,4838.6,A,San Pedrito,0,False,False
+Villa Luro,3100.3,A,San Pedrito,0,False,False
+Vélez Sarsfield,2169.4,A,San Pedrito,0,False,False
+Villa Urquiza,337.2,B,Juan Manuel De Rosas - Villa Urquiza,1,True,True
+Saavedra,2377.7,B,Juan Manuel De Rosas - Villa Urquiza,0,False,False
+Núñez,1374.7,D,Congreso De Tucuman,0,False,False
+Colegiales,776.5,D,Olleros,1,False,True
+Belgrano,1030.3,D,Juramento,0,False,False
+Palermo,601.5,D,Palermo,1,False,True
+Liniers,4762.9,A,San Pedrito,0,False,False
+Mataderos,4038.2,E,Plaza De Los Virreyes - Eva Perón,0,False,False
+Parque Avellaneda,1479.0,E,Plaza De Los Virreyes - Eva Perón,0,False,False
+Parque Chacabuco,680.3,E,Emilio Mitre,1,False,True
+Almagro,282.8,A,Castro Barros,3,True,True
+Boedo,593.6,E,Boedo,2,False,True
+Balvanera,188.9,A,Alberti,8,True,True
+San Cristóbal,93.7,H,Humberto 1°,5,True,True
+Monserrat,72.2,C,Moreno,11,True,True
+San Nicolás,16.2,B,C. Pellegrini,12,True,True
+San Telmo,768.8,C,San Juan,1,False,True
+Constitución,306.0,E,San Jose,4,True,True
+Parque Patricios,321.7,H,Caseros,2,True,True
+Nueva Pompeya,1198.2,H,Hospitales - Ringo Bonavena,0,False,False
+Villa Lugano,3759.8,E,Plaza De Los Virreyes - Eva Perón,0,False,False
+Villa Soldati,2836.8,E,Plaza De Los Virreyes - Eva Perón,0,False,False
+Villa Riachuelo,5400.8,E,Plaza De Los Virreyes - Eva Perón,0,False,False
+Barracas,1807.7,H,Caseros,0,False,False
+La Boca,2296.8,C,Constitucion,0,False,False
+Recoleta,301.5,H,Facultad De Derecho - Julieta Lanteri,2,True,True
+Retiro,360.5,C,Retiro,3,True,True
+Puerto Madero,1339.1,A,Plaza De Mayo,0,False,False
+Coghlan,1278.5,D,Congreso De Tucuman,0,False,False

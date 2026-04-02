@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Datos pesados
+data/raw/*.csv
+data/raw/*.geojson
+data/output/*.xlsx
+data/output/*.csv
+data/output/*.geojson
+
+# Backups
+*_BACKUP*
+*_backup*
+
+# Tableau
+*.twb
+*.twbx
+*.twbr
+
+# GeoJSON sueltos en raíz
+*.geojson
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Credenciales
+*.env
+.env

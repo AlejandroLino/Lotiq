@@ -1,0 +1,169 @@
+﻿barrio,subzona,dist_subte_m,linea_subte_cercana,estacion_cercana,cant_estaciones_800m,subte_5min,subte_10min
+Agronomia,Av. San Martin,1821.2,B,Echeverría - Mártires Palotinos,0,False,False
+Agronomia,Facultad,1821.2,B,Echeverría - Mártires Palotinos,0,False,False
+Agronomia,Resid. Norte,1821.2,B,Echeverría - Mártires Palotinos,0,False,False
+Almagro,Medrano,281.9,A,Castro Barros,3,True,True
+Almagro,Rivadavia Sur,281.9,A,Castro Barros,3,True,True
+Almagro,Castro Barros,281.9,A,Castro Barros,3,True,True
+Almagro,Pque Centenario,281.9,A,Castro Barros,3,True,True
+Balvanera,Once,189.0,A,Alberti,8,True,True
+Balvanera,Congreso,189.0,A,Alberti,8,True,True
+Balvanera,Av. Corrientes,189.0,A,Alberti,8,True,True
+Balvanera,Pl. Miserere,189.0,A,Alberti,8,True,True
+Barracas,Montes de Oca,1791.6,H,Caseros,0,False,False
+Barracas,Av. Velez Sarsf.,1791.6,H,Caseros,0,False,False
+Barracas,Santa Lucia,1791.6,H,Caseros,0,False,False
+Barracas,Dist. Diseno,1791.6,H,Caseros,0,False,False
+Belgrano,Belgrano C,1022.8,D,Juramento,0,False,False
+Belgrano,Belgrano R,1022.8,D,Juramento,0,False,False
+Belgrano,Belgrano Chino,1022.8,D,Juramento,0,False,False
+Belgrano,Av. Cabildo,1022.8,D,Juramento,0,False,False
+Belgrano,Barrancas,1022.8,D,Juramento,0,False,False
+Boedo,San Juan,593.7,E,Boedo,2,False,True
+Boedo,Av. Boedo,593.7,E,Boedo,2,False,True
+Boedo,Maza,593.7,E,Boedo,2,False,True
+Boedo,Carlos Gardel,593.7,E,Boedo,2,False,True
+Caballito,Pque Rivadavia,454.6,A,Primera Junta,2,False,True
+Caballito,Primera Junta,454.6,A,Primera Junta,2,False,True
+Caballito,Pedro Goyena,454.6,A,Primera Junta,2,False,True
+Caballito,Rojas,454.6,A,Primera Junta,2,False,True
+Chacarita,Av. Corrientes,151.7,B,Federico Lacroze,2,True,True
+Chacarita,Dorrego,151.7,B,Federico Lacroze,2,True,True
+Chacarita,Cementerio,151.7,B,Federico Lacroze,2,True,True
+Chacarita,F. Lacroze,151.7,B,Federico Lacroze,2,True,True
+Coghlan,Estacion,1278.5,D,Congreso De Tucuman,0,False,False
+Coghlan,Residencial,1278.5,D,Congreso De Tucuman,0,False,False
+Coghlan,Av. Congreso,1278.5,D,Congreso De Tucuman,0,False,False
+Colegiales,Alvarez Thomas,772.7,D,Olleros,1,False,True
+Colegiales,Cabildo,772.7,D,Olleros,1,False,True
+Colegiales,Maure,772.7,D,Olleros,1,False,True
+Constitucion,Estacion,308.9,E,San Jose,4,True,True
+Constitucion,Lima,308.9,E,San Jose,4,True,True
+Constitucion,Av. Caseros,308.9,E,San Jose,4,True,True
+Constitucion,Huergo,308.9,E,San Jose,4,True,True
+Flores,Av. Rivadavia,370.5,E,Varela,3,True,True
+Flores,Pedernera,370.5,E,Varela,3,True,True
+Flores,Pque Avellaneda,370.5,E,Varela,3,True,True
+Flores,Carabobo,370.5,E,Varela,3,True,True
+Floresta,Estacion,1322.9,A,San Pedrito,0,False,False
+Floresta,Av. Segurola,1322.9,A,San Pedrito,0,False,False
+Floresta,Monte,1322.9,A,San Pedrito,0,False,False
+La Boca,Caminito,2288.5,C,Constitucion,0,False,False
+La Boca,Alte. Brown,2288.5,C,Constitucion,0,False,False
+La Boca,Vuelta de Rocha,2288.5,C,Constitucion,0,False,False
+La Boca,Catalinas Sur,2288.5,C,Constitucion,0,False,False
+Liniers,Estacion,4764.5,A,San Pedrito,0,False,False
+Liniers,Av. Rivadavia,4764.5,A,San Pedrito,0,False,False
+Liniers,L. de la Torre,4764.5,A,San Pedrito,0,False,False
+Mataderos,Av. Eva Peron,4037.5,E,Plaza De Los Virreyes - Eva Perón,0,False,False
+Mataderos,Mercado,4037.5,E,Plaza De Los Virreyes - Eva Perón,0,False,False
+Mataderos,L. de la Torre,4037.5,E,Plaza De Los Virreyes - Eva Perón,0,False,False
+Mataderos,Pque Alberdi,4037.5,E,Plaza De Los Virreyes - Eva Perón,0,False,False
+Monserrat,Pl. de Mayo,72.7,C,Moreno,11,True,True
+Monserrat,Av. de Mayo,72.7,C,Moreno,11,True,True
+Monserrat,San Telmo borde,72.7,C,Moreno,11,True,True
+Monserrat,Belgrano Sur,72.7,C,Moreno,11,True,True
+Monte Castro,Alvarez Jonte,3617.0,A,San Pedrito,0,False,False
+Monte Castro,Lope de Vega,3617.0,A,San Pedrito,0,False,False
+Monte Castro,J.B. Justo,3617.0,A,San Pedrito,0,False,False
+Nueva Pompeya,Av. Saenz,1185.9,H,Hospitales - Ringo Bonavena,0,False,False
+Nueva Pompeya,Puente Alsina,1185.9,H,Hospitales - Ringo Bonavena,0,False,False
+Nueva Pompeya,Parque,1185.9,H,Hospitales - Ringo Bonavena,0,False,False
+Nueva Pompeya,Polo Tecnol.,1185.9,H,Hospitales - Ringo Bonavena,0,False,False
+Nuñez,River,1374.1,D,Congreso De Tucuman,0,False,False
+Nuñez,Av. Libertador,1374.1,D,Congreso De Tucuman,0,False,False
+Nuñez,Av. Cabildo,1374.1,D,Congreso De Tucuman,0,False,False
+Nuñez,Costanera,1374.1,D,Congreso De Tucuman,0,False,False
+Palermo,Soho,594.8,D,Palermo,1,False,True
+Palermo,Hollywood,594.8,D,Palermo,1,False,True
+Palermo,Chico,594.8,D,Palermo,1,False,True
+Palermo,Bosques,594.8,D,Palermo,1,False,True
+Palermo,Viejo,594.8,D,Palermo,1,False,True
+Parque Avellaneda,Av. Directorio,1480.3,E,Plaza De Los Virreyes - Eva Perón,0,False,False
+Parque Avellaneda,Parque,1480.3,E,Plaza De Los Virreyes - Eva Perón,0,False,False
+Parque Avellaneda,Lacarra,1480.3,E,Plaza De Los Virreyes - Eva Perón,0,False,False
+Parque Chacabuco,Parque,681.9,E,Emilio Mitre,1,False,True
+Parque Chacabuco,Av. Asamblea,681.9,E,Emilio Mitre,1,False,True
+Parque Chacabuco,Emilio Mitre,681.9,E,Emilio Mitre,1,False,True
+Parque Chas,Diagonal,652.2,B,De Los Incas - Pque. Chas,1,False,True
+Parque Chas,Av. Triunvirato,652.2,B,De Los Incas - Pque. Chas,1,False,True
+Parque Chas,La Pampa,652.2,B,De Los Incas - Pque. Chas,1,False,True
+Parque Patricios,Dist. Tecnologico,323.2,H,Caseros,2,True,True
+Parque Patricios,Parque,323.2,H,Caseros,2,True,True
+Parque Patricios,Av. Caseros,323.2,H,Caseros,2,True,True
+Parque Patricios,Uspallata,323.2,H,Caseros,2,True,True
+Paternal,Av. San Martin,1495.3,B,Tronador - Villa Ortúzar,0,False,False
+Paternal,Warnes,1495.3,B,Tronador - Villa Ortúzar,0,False,False
+Paternal,Chorroarin,1495.3,B,Tronador - Villa Ortúzar,0,False,False
+Puerto Madero,Dique 1-2,1064.4,A,Plaza De Mayo,0,False,False
+Puerto Madero,Dique 3-4,1064.4,A,Plaza De Mayo,0,False,False
+Puerto Madero,Costanera Sur,1064.4,A,Plaza De Mayo,0,False,False
+Puerto Madero,Madero Este,1064.4,A,Plaza De Mayo,0,False,False
+Recoleta,Av. Alvear,281.7,H,Las Heras,2,True,True
+Recoleta,Plaza Francia,281.7,H,Las Heras,2,True,True
+Recoleta,Barrio Norte,281.7,H,Las Heras,2,True,True
+Recoleta,Av. Las Heras,281.7,H,Las Heras,2,True,True
+Retiro,Pl. San Martin,362.0,C,Retiro,3,True,True
+Retiro,Catalinas,362.0,C,Retiro,3,True,True
+Retiro,Terminal,362.0,C,Retiro,3,True,True
+Saavedra,Av. Cabildo,2365.6,B,Juan Manuel De Rosas - Villa Urquiza,0,False,False
+Saavedra,Pque Saavedra,2365.6,B,Juan Manuel De Rosas - Villa Urquiza,0,False,False
+Saavedra,Garcia del Rio,2365.6,B,Juan Manuel De Rosas - Villa Urquiza,0,False,False
+San Cristobal,Av. Jujuy,95.2,H,Humberto 1°,5,True,True
+San Cristobal,Juan de Garay,95.2,H,Humberto 1°,5,True,True
+San Cristobal,La Rioja,95.2,H,Humberto 1°,5,True,True
+San Nicolas,Av. Corrientes,18.6,B,C. Pellegrini,12,True,True
+San Nicolas,Obelisco,18.6,B,C. Pellegrini,12,True,True
+San Nicolas,Av. Santa Fe,18.6,B,C. Pellegrini,12,True,True
+San Nicolas,Tribunales,18.6,B,C. Pellegrini,12,True,True
+San Telmo,Defensa,769.5,C,San Juan,1,False,True
+San Telmo,Pl. Dorrego,769.5,C,San Juan,1,False,True
+San Telmo,Paseo Colon,769.5,C,San Juan,1,False,True
+San Telmo,Av. Brasil,769.5,C,San Juan,1,False,True
+Velez Sarsfield,Av. Segurola,2168.6,A,San Pedrito,0,False,False
+Velez Sarsfield,Est. Floresta,2168.6,A,San Pedrito,0,False,False
+Velez Sarsfield,J.B. Justo,2168.6,A,San Pedrito,0,False,False
+Versalles,J.B. Justo,4840.5,A,San Pedrito,0,False,False
+Versalles,El Fortin,4840.5,A,San Pedrito,0,False,False
+Versalles,Residencial,4840.5,A,San Pedrito,0,False,False
+Villa Crespo,Scalabrini Ortiz,270.8,B,Malabia - Osvaldo Pugliese,1,True,True
+Villa Crespo,Av. Corrientes,270.8,B,Malabia - Osvaldo Pugliese,1,True,True
+Villa Crespo,Malabia,270.8,B,Malabia - Osvaldo Pugliese,1,True,True
+Villa Crespo,Thames,270.8,B,Malabia - Osvaldo Pugliese,1,True,True
+Villa Del Parque,Alvarez Jonte,2964.6,B,De Los Incas - Pque. Chas,0,False,False
+Villa Del Parque,Cuenca,2964.6,B,De Los Incas - Pque. Chas,0,False,False
+Villa Del Parque,Beiro,2964.6,B,De Los Incas - Pque. Chas,0,False,False
+Villa Devoto,Pl. Arenales,4028.8,B,Juan Manuel De Rosas - Villa Urquiza,0,False,False
+Villa Devoto,Av. Beiro,4028.8,B,Juan Manuel De Rosas - Villa Urquiza,0,False,False
+Villa Devoto,S.M. del Carril,4028.8,B,Juan Manuel De Rosas - Villa Urquiza,0,False,False
+Villa Gral. Mitre,J.B. Justo,2160.1,A,Carabobo,0,False,False
+Villa Gral. Mitre,Santos Dumont,2160.1,A,Carabobo,0,False,False
+Villa Gral. Mitre,Gaona,2160.1,A,Carabobo,0,False,False
+Villa Lugano,Av. Roca,3760.1,E,Plaza De Los Virreyes - Eva Perón,0,False,False
+Villa Lugano,Pque Ciudad,3760.1,E,Plaza De Los Virreyes - Eva Perón,0,False,False
+Villa Lugano,Villa Olimpica,3760.1,E,Plaza De Los Virreyes - Eva Perón,0,False,False
+Villa Luro,Av. Rivadavia,3099.5,A,San Pedrito,0,False,False
+Villa Luro,Estacion,3099.5,A,San Pedrito,0,False,False
+Villa Luro,J.B. Justo,3099.5,A,San Pedrito,0,False,False
+Villa Ortuzar,Alvarez Thomas,370.1,B,Tronador - Villa Ortúzar,2,True,True
+Villa Ortuzar,Tronador,370.1,B,Tronador - Villa Ortúzar,2,True,True
+Villa Ortuzar,14 de Julio,370.1,B,Tronador - Villa Ortúzar,2,True,True
+Villa Pueyrredon,Constituyentes,1791.6,B,Juan Manuel De Rosas - Villa Urquiza,0,False,False
+Villa Pueyrredon,Artigas,1791.6,B,Juan Manuel De Rosas - Villa Urquiza,0,False,False
+Villa Pueyrredon,Mosconi,1791.6,B,Juan Manuel De Rosas - Villa Urquiza,0,False,False
+Villa Real,Alvarez Jonte,5320.2,A,San Pedrito,0,False,False
+Villa Real,Irigoyen,5320.2,A,San Pedrito,0,False,False
+Villa Real,Lope de Vega,5320.2,A,San Pedrito,0,False,False
+Villa Riachuelo,Av. Gral. Paz,5388.2,E,Plaza De Los Virreyes - Eva Perón,0,False,False
+Villa Riachuelo,Larraya,5388.2,E,Plaza De Los Virreyes - Eva Perón,0,False,False
+Villa Riachuelo,F. de la Cruz,5388.2,E,Plaza De Los Virreyes - Eva Perón,0,False,False
+Villa Santa Rita,Av. Gaona,2021.4,A,San Pedrito,0,False,False
+Villa Santa Rita,Alvarez Jonte,2021.4,A,San Pedrito,0,False,False
+Villa Santa Rita,Helguera,2021.4,A,San Pedrito,0,False,False
+Villa Soldati,Av. Cruz,2815.7,E,Plaza De Los Virreyes - Eva Perón,0,False,False
+Villa Soldati,Pque Indoamericano,2815.7,E,Plaza De Los Virreyes - Eva Perón,0,False,False
+Villa Soldati,Castanares,2815.7,E,Plaza De Los Virreyes - Eva Perón,0,False,False
+Villa Urquiza,Av. Triunvirato,335.4,B,Juan Manuel De Rosas - Villa Urquiza,1,True,True
+Villa Urquiza,Monroe,335.4,B,Juan Manuel De Rosas - Villa Urquiza,1,True,True
+Villa Urquiza,Constituyentes,335.4,B,Juan Manuel De Rosas - Villa Urquiza,1,True,True
+Villa Urquiza,Olazabal,335.4,B,Juan Manuel De Rosas - Villa Urquiza,1,True,True
