@@ -33,7 +33,7 @@ Python · Pandas · GeoPandas · Tableau Public · QGIS · XGBoost · N8N
 
 ## Dashboard
 
-[Ver en Tableau Public](https://public.tableau.com/app/profile/alejandro.lino)
+[Ver en Tableau Public](https://public.tableau.com/app/profile/alejandro.lino/viz/AnlisisFOTvsPreciom2CABA2026/D6_Gap_Normativa)
 
 ## Estructura
 ```
